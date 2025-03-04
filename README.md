@@ -1,4 +1,3 @@
-# pizza-sales-analysis
 ## **Pizza Sales Analysis Project**  
 
 ### **Introduction**  
